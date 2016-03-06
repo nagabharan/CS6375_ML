@@ -1,0 +1,26 @@
+No. of Instances:  178
+No. of Atrributes:  14
+
+Output for Wine Dataset:  http://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data
+
+Decision Tree Accuracy Array:  91.66667 94.44444 88.88889 91.66667 94.44444 86.11111 100 94.44444 86.11111 88.88889
+
+SVM Accuracy Array:  97.22222 100 100 97.22222 97.22222 94.44444 100 100 100 100
+
+Naive Bayes Accuracy Array:  91.66667 100 97.22222 97.22222 97.22222 94.44444 100 97.22222 97.22222 97.22222
+
+Logistic Regression Accuracy Array:  0 0 0 0 0 0 0 0 0 0
+
+Neural Network Accuracy Array:  27.77778 30.55556 36.11111 27.77778 44.44444 33.33333 52.77778 30.55556 25 36.11111
+
+Accuracy for 10 iterations
+
+Average accuracy of 10 samples in Decision Tree Classifier:  91.66667
+
+Average accuracy of 10 samples in SVM Classifier:  98.61111
+
+Average accuracy of 10 samples in Naive Bayes Classifier:  96.94444
+
+Average accuracy of 10 samples in Logistic Regression Classifier:  0
+
+Average accuracy of 10 samples in Neural Network Classifier:  34.44444

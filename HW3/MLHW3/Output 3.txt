@@ -1,0 +1,26 @@
+No. of Instances:  569
+No. of Atrributes:  32
+
+Output for Breast Cancer Diagnostic  Dataset:  https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data
+
+Decision Tree Accuracy Array:  92.98246 96.49123 93.85965 93.85965 92.10526 92.98246 93.85965 92.10526 92.98246 92.10526
+
+SVM Accuracy Array:  99.12281 99.12281 95.61404 99.12281 96.49123 97.36842 95.61404 94.73684 95.61404 95.61404
+
+Naive Bayes Accuracy Array:  92.98246 94.73684 91.22807 93.85965 96.49123 90.35088 92.10526 91.22807 88.59649 90.35088
+
+Logistic Regression Accuracy Array:  5.263158 2.631579 2.631579 2.631579 0 0 7.017544 3.508772 3.508772 1.754386
+
+Neural Network Accuracy Array:  64.03509 58.77193 64.91228 61.40351 61.40351 60.52632 65.78947 61.40351 53.50877 56.14035
+
+Accuracy for 10 iterations
+
+Average accuracy of 10 samples in Decision Tree Classifier:  93.33333
+
+Average accuracy of 10 samples in SVM Classifier:  96.84211
+
+Average accuracy of 10 samples in Naive Bayes Classifier:  92.19298
+
+Average accuracy of 10 samples in Logistic Regression Classifier:  2.894737
+
+Average accuracy of 10 samples in Neural Network Classifier:  60.78947

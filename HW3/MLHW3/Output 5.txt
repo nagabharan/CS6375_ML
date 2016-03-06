@@ -1,0 +1,26 @@
+No. of Instances:  351
+No. of Atrributes:  35
+
+Output for Ionosphere Dataset:  http://archive.ics.uci.edu/ml/machine-learning-databases/ionosphere/ionosphere.data
+
+Decision Tree Accuracy Array:  91.5493 88.73239 90.14085 87.32394 85.91549 90.14085 90.14085 90.14085 83.09859 90.14085
+
+SVM Accuracy Array:  88.73239 91.5493 85.91549 92.95775 91.5493 94.3662 91.5493 88.73239 88.73239 95.77465
+
+Naive Bayes Accuracy Array:  85.91549 90.14085 88.73239 91.5493 87.32394 94.3662 88.73239 90.14085 92.95775 81.69014
+
+Logistic Regression Accuracy Array:  11.26761 5.633803 11.26761 8.450704 12.67606 9.859155 4.225352 5.633803 8.450704 1.408451
+
+Neural Network Accuracy Array:  40.84507 32.39437 42.25352 36.61972 38.02817 42.25352 36.61972 42.25352 43.66197 35.21127
+
+Accuracy for 10 iterations
+
+Average accuracy of 10 samples in Decision Tree Classifier:  88.73239
+
+Average accuracy of 10 samples in SVM Classifier:  90.98592
+
+Average accuracy of 10 samples in Naive Bayes Classifier:  89.15493
+
+Average accuracy of 10 samples in Logistic Regression Classifier:  7.887324
+
+Average accuracy of 10 samples in Neural Network Classifier:  39.01408

@@ -1,0 +1,26 @@
+No. of Instances:  303
+No. of Atrributes:  14
+
+Output for Heart Disease Cleveland Processed Dataset:  http://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data
+
+Decision Tree Accuracy Array:  54.09836 59.01639 55.7377 55.7377 50.81967 57.37705 59.01639 47.54098 49.18033 57.37705
+
+SVM Accuracy Array:  59.01639 59.01639 47.54098 57.37705 54.09836 57.37705 50.81967 52.45902 45.90164 62.29508
+
+Naive Bayes Accuracy Array:  44.2623 55.7377 45.90164 54.09836 57.37705 55.7377 45.90164 45.90164 47.54098 55.7377
+
+Logistic Regression Accuracy Array:  49.18033 59.01639 55.7377 59.01639 55.7377 59.01639 50.81967 57.37705 47.54098 60.65574
+
+Neural Network Accuracy Array:  52.45902 60.65574 49.18033 52.45902 50.81967 54.09836 49.18033 44.2623 45.90164 57.37705
+
+Accuracy for 10 iterations
+
+Average accuracy of 10 samples in Decision Tree Classifier:  54.59016
+
+Average accuracy of 10 samples in SVM Classifier:  54.59016
+
+Average accuracy of 10 samples in Naive Bayes Classifier:  50.81967
+
+Average accuracy of 10 samples in Logistic Regression Classifier:  55.40984
+
+Average accuracy of 10 samples in Neural Network Classifier:  51.63934

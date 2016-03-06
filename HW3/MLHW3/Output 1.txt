@@ -1,0 +1,26 @@
+No. of Instances:  579
+No. of Atrributes:  11
+
+Output for ILP Dataset:  http://archive.ics.uci.edu/ml/machine-learning-databases/00225/Indian%20Liver%20Patient%20Dataset%20(ILPD).csv
+
+Decision Tree Accuracy Array:  74.13793 65.51724 73.27586 72.41379 68.96552 64.65517 67.24138 76.72414 67.24138 71.55172
+
+SVM Accuracy Array:  74.13793 65.51724 73.27586 72.41379 68.96552 64.65517 74.13793 76.72414 71.55172 71.55172
+
+Naive Bayes Accuracy Array:  56.03448 61.2069 50 55.17241 56.89655 62.06897 58.62069 58.62069 54.31034 62.06897
+
+Logistic Regression Accuracy Array:  0 0 0 0 0 0.862069 0 0 0 0.862069
+
+Neural Network Accuracy Array:  74.13793 65.51724 73.27586 72.41379 68.96552 64.65517 74.13793 76.72414 72.41379 71.55172
+
+Accuracy for 10 iterations
+
+Average accuracy of 10 samples in Decision Tree Classifier:  70.17241
+
+Average accuracy of 10 samples in SVM Classifier:  71.2931
+
+Average accuracy of 10 samples in Naive Bayes Classifier:  57.5
+
+Average accuracy of 10 samples in Logistic Regression Classifier:  0.1724138
+
+Average accuracy of 10 samples in Neural Network Classifier:  71.37931
