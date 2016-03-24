@@ -1,8 +1,5 @@
 Machine Learning HW 2
 
-Nagabharan Nagendran
-nxn141730
-
 The program contains necessary comments and solution for the regular AND BONUS question.
 
 Steps to compile and run the java project
