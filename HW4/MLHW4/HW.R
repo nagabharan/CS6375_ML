@@ -1,4 +1,4 @@
-starttime <- Sys.time()
+# starttime <- Sys.time()
 
 # Import the library
 if (!require("RTextTools")) 
@@ -50,7 +50,19 @@ analytics <- create_analytics(container, cbind(SVM_CLASSIFY,GLMNET_CLASSIFY,MAXE
 # Printing Analytics
 summary(analytics)
 
-endtime <- Sys.time()
+# Generate Accuracy
+print("SVM ACC over 4 fold")
+SVM_ACC <- cross_validate(container,nfold = 4,"SVM")
+print("GLMNET ACC over 4 fold")
+GLMNET_ACC <- cross_validate(container,nfold = 4,"GLMNET")
+print("MAXENT ACC over 4 fold")
+MAXENT_ACC <- cross_validate(container,nfold = 4,"MAXENT")
+print("BOOST ACC over 4 fold")
+BOOST_ACC <- cross_validate(container,nfold = 4,"BOOSTING")
+print("TREE ACC over 4 fold")
+TREE_ACC <- cross_validate(container,nfold = 4,"TREE")
+
+# endtime <- Sys.time()
 
 # Printing runtime
-print(endtime-starttime)
+# print(endtime-starttime)
