@@ -1,8 +1,5 @@
 Machine Learning HW 3
 
-Nagabharan Nagendran
-nxn141730
-
 Report.docx contains the comprehensive table of outputs and observations.
 
 Datasets:
