@@ -1,0 +1,26 @@
+No. of Instances:  351
+No. of Atrributes:  34
+
+Output for ILP Dataset:  http://archive.ics.uci.edu/ml/machine-learning-databases/ionosphere/ionosphere.data
+
+KNN Accuracy Array:  94.33962 88.67925 84.90566 89.62264 92.45283 87.73585 83.96226 92.45283 83.96226 91.50943
+
+Baggin Accuracy Array:  86.79245 77.35849 80.18868 82.07547 81.13208 80.18868 83.96226 83.96226 76.41509 78.30189
+
+Boosting Accuracy Array:  93.39623 91.50943 90.56604 96.22642 95.28302 90.56604 91.50943 93.39623 90.56604 92.45283
+
+Random Forest Accuracy Array:  93.39623 91.50943 92.45283 96.22642 95.28302 94.33962 92.45283 93.39623 89.62264 91.50943
+
+Gradient Boosting Accuracy Array:  100 100 100 100 100 100 100 100 100 100
+
+Accuracy for 10 iterations
+
+Average accuracy of 10 samples in kNN Classifier:  88.96226
+
+Average accuracy of 10 samples in Bagging Classifier:  81.03774
+
+Average accuracy of 10 samples in Boosting Classifier:  92.54717
+
+Average accuracy of 10 samples in Random Forest Classifier:  93.01887
+
+Average accuracy of 10 samples in Gradient Boosting Classifier:  100

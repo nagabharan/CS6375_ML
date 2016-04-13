@@ -1,0 +1,26 @@
+No. of Instances:  303
+No. of Atrributes:  14
+
+Output for ILP Dataset:  http://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data
+
+KNN Accuracy Array:  73.68421 81.08108 78.37838 80 80.55556 82.85714 78.37838 83.78378 85 78.37838
+
+Baggin Accuracy Array:  50.54945 56.04396 57.14286 51.64835 51.64835 54.94505 56.04396 57.14286 56.04396 48.35165
+
+Boosting Accuracy Array:  49.45055 54.94505 57.14286 56.04396 59.34066 61.53846 60.43956 59.34066 58.24176 52.74725
+
+Random Forest Accuracy Array:  59.34066 59.34066 54.94505 58.24176 54.94505 58.24176 57.14286 59.34066 58.24176 56.04396
+
+Gradient Boosting Accuracy Array:  26.37363 24.17582 23.07692 86.81319 31.86813 74.72527 39.56044 69.23077 86.81319 68.13187
+
+Accuracy for 10 iterations
+
+Average accuracy of 10 samples in kNN Classifier:  80.20969
+
+Average accuracy of 10 samples in Bagging Classifier:  53.95604
+
+Average accuracy of 10 samples in Boosting Classifier:  56.92308
+
+Average accuracy of 10 samples in Random Forest Classifier:  57.58242
+
+Average accuracy of 10 samples in Gradient Boosting Classifier:  53.07692

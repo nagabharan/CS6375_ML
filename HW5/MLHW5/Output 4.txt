@@ -1,0 +1,26 @@
+No. of Instances:  178
+No. of Atrributes:  14
+
+Output for ILP Dataset:  http://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data
+
+KNN Accuracy Array:  100 100 100 100 90.47619 95.2381 100 100 95.45455 95.65217
+
+Baggin Accuracy Array:  40.74074 35.18519 25.92593 24.07407 37.03704 37.03704 44.44444 35.18519 37.03704 42.59259
+
+Boosting Accuracy Array:  98.14815 94.44444 96.2963 94.44444 96.2963 98.14815 98.14815 100 98.14815 96.2963
+
+Random Forest Accuracy Array:  98.14815 98.14815 94.44444 98.14815 98.14815 98.14815 98.14815 96.2963 98.14815 98.14815
+
+Gradient Boosting Accuracy Array:  98.14815 94.44444 88.88889 88.88889 98.14815 96.2963 90.74074 98.14815 96.2963 96.2963
+
+Accuracy for 10 iterations
+
+Average accuracy of 10 samples in kNN Classifier:  97.6821
+
+Average accuracy of 10 samples in Bagging Classifier:  35.92593
+
+Average accuracy of 10 samples in Boosting Classifier:  97.03704
+
+Average accuracy of 10 samples in Random Forest Classifier:  97.59259
+
+Average accuracy of 10 samples in Gradient Boosting Classifier:  94.62963

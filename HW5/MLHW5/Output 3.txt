@@ -1,0 +1,26 @@
+No. of Instances:  569
+No. of Atrributes:  32
+
+Output for ILP Dataset:  https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data
+
+KNN Accuracy Array:  95.90643 95.90643 95.32164 93.56725 94.73684 94.15205 95.90643 94.15205 96.49123 96.49123
+
+Baggin Accuracy Array:  91.81287 87.7193 93.56725 92.39766 87.7193 91.22807 86.54971 91.22807 88.30409 92.39766
+
+Boosting Accuracy Array:  95.32164 95.90643 96.49123 97.07602 92.98246 95.32164 94.73684 94.73684 97.07602 97.66082
+
+Random Forest Accuracy Array:  96.49123 97.07602 95.32164 95.90643 91.81287 96.49123 97.07602 94.15205 95.32164 95.90643
+
+Gradient Boosting Accuracy Array:  100 100 100 100 100 100 100 100 100 100
+
+Accuracy for 10 iterations
+
+Average accuracy of 10 samples in kNN Classifier:  95.26316
+
+Average accuracy of 10 samples in Bagging Classifier:  90.2924
+
+Average accuracy of 10 samples in Boosting Classifier:  95.73099
+
+Average accuracy of 10 samples in Random Forest Classifier:  95.55556
+
+Average accuracy of 10 samples in Gradient Boosting Classifier:  100

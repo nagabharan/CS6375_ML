@@ -1,0 +1,26 @@
+No. of Instances:  579
+No. of Atrributes:  11
+
+Output for ILP Dataset:  http://archive.ics.uci.edu/ml/machine-learning-databases/00225/Indian%20Liver%20Patient%20Dataset%20(ILPD).csv
+
+KNN Accuracy Array:  65.47619 76.19048 67.5 67.05882 73.75 63.15789 71.13402 68.04124 79.51807 71.91011
+
+Baggin Accuracy Array:  66.66667 70.68966 71.83908 75.86207 72.41379 69.54023 68.3908 62.64368 66.66667 72.41379
+
+Boosting Accuracy Array:  68.3908 68.3908 71.83908 71.26437 68.3908 68.3908 67.24138 67.81609 72.41379 64.94253
+
+Random Forest Accuracy Array:  70.68966 68.96552 72.98851 76.43678 69.54023 72.41379 68.3908 67.24138 72.98851 70.68966
+
+Gradient Boosting Accuracy Array:  65.51724 69.54023 67.81609 68.96552 60.91954 66.66667 67.24138 66.09195 58.62069 67.81609
+
+Accuracy for 10 iterations
+
+Average accuracy of 10 samples in kNN Classifier:  70.37368
+
+Average accuracy of 10 samples in Bagging Classifier:  69.71264
+
+Average accuracy of 10 samples in Boosting Classifier:  68.90805
+
+Average accuracy of 10 samples in Random Forest Classifier:  71.03448
+
+Average accuracy of 10 samples in Gradient Boosting Classifier:  65.91954
